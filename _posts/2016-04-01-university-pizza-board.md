@@ -7,12 +7,12 @@ title: University Pizza Board
 thumbnail: /images/pizza/prank-00.JPG
 summary: The University Program Board goes through a radical rebrand.
 ---
-Friday schedules at CWRU incorporate community hour, an hour and a half during which no student has class. When April 1st fell on a Friday this year, I knew UPB should capitalize on the opportunity. 
 
 <div class = "post-image">
 <image alt ="A Facebook update that reads: Friday. on the binary. (or thwing if the weather is subpar). snacks? a super secret brand reveal??? Be there for our UPB rebranding. Like us on facebook now so you can be the first to find out!" src= "/images/pizza/prank-0.JPG"/> <br/>
 </div>
 <br/>
+Friday schedules at CWRU incorporate community hour, an hour and a half during which no student has class. When April 1st fell on a Friday this year, I knew UPB should capitalize on the opportunity. 
 
 Originally, I planned a pop-up event in front of the library, but the location was booked. While it was well-received as a proposal, we wouldn't able to execute it as well as possible, so I starting thinking of other ideas. At the same time, I had been watching some zombie grime art tutorials. Why not make something gooey, like pizza?
 
