@@ -79,7 +79,7 @@ During the event, tons of people stopped by at our photo spot to take pictures. 
 
 
 <div class = "post-image">
-<img alt ="People pose with the letters" src= "/images/TT/laptop.jpg"/> <br/>
+<img alt ="People pose with the letters" src= "/images/cwruchella/me_david.png"/> <br/>
 People pose with the letters
 </div>
 <br/>
