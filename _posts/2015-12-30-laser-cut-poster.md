@@ -1,6 +1,7 @@
 ---
 category: design
 layout: post
+published: true
 date: 2015-12-30
 title: Laser Cut Experiments
 thumbnail: /images/laser/close-up.png
@@ -72,3 +73,5 @@ A flatlay of the giftset.
 <img alt ="Flatlay" src= "/images/laser/tilted.png"/> <br/>
 </div>
 <br/>
+
+Thanks to Morgan McMahon for helping me photograph the flatlays!
