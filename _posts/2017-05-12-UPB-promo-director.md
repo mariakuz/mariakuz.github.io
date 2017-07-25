@@ -14,7 +14,7 @@ The promotions committee gets amped up for an upcoming event.
 </div>
 <br/>
 
-In the spring, I was voted to become the Promotions Director of the University Programming Board (UPB) at Case Western Reserve University (CWRU). UPB uses a portion of the Student Activity Fee (just under half a million dollars) to fund campus events for undergraduate students. Our previous promotions director had focused the role on overseeing the creation of posters to promote events. When I was previously a co-chair, I created a poster series and marketing campaign for our weekly concert night. I loved it and wanted to be more involved.
+In the spring, I became the Promotions Director of the University Programming Board (UPB) at Case Western Reserve University (CWRU). UPB uses a portion of the Student Activity Fee (just under half a million dollars) to fund campus events for undergraduate students. Our previous promotions director had focused the role on overseeing the creation of posters to promote events. When I was previously a co-chair, I created a poster series and marketing campaign for our weekly concert night. I loved it and wanted to be more involved.
 
 Last February, UPB sent three members to the National Association of Campus Activities (NACA), a conference for members of college activities boards. There, we attended breakout sessions and looked for future event ideas at a vendor fair. Talking to students across the country, from a variety of schools, I learned how lucky UPB was to have a budget this large for a student body of our size. Apparently, our budget was on par with Ohio State University’s, a school 10 times larger than ours. However, I began to realize that our campus was different from theirs. Students didn’t get excited for a magician, come together for homecoming, or attend foam parties thrown by the school.
 
@@ -35,7 +35,7 @@ Changes in our campus culture, even though it was something that my friend Louis
 
 <div class = "post-image">
 <img alt ="Looking excited at Thwing Tuesdays" src= "/images/upb/tt.jpg"/> <br/>
-Lookng excited at Thwing Tuesdays!
+Looking excited at Thwing Tuesdays!
 </div>
 <br/>
 
@@ -46,17 +46,24 @@ As such, my opportunity to both promote change and gain experience came when I w
 When getting ready to lead the team for next year, I had a vision in mind; I wanted the promotions experience to be a meaningful (and a growth opportunity) for all co-chairs of the team. I wanted to remove the black box surrounding design in UPB and increase buy in from the rest of the teams. For example, despite using Illustrator – a holdover from the previous promotions directors – many members of UPB thought we used Photoshop. UPB members were hesitant to engage in the design process or give feedback. I wanted to  prove that design isn’t just posters, but the experience that students have at the event. Encouraging transparency in our design process would encourage more people to participate in the creative process, leading to more good ideas. As case study after case study from class showed, great ideas can come from anywhere. 
 
 <div class = "post-image">
-<img alt ="A great idea: the concerts committee asked for a neon sign." src= "/images/upb/sign.jpg"/> <br/>
+<img alt ="A great idea: the concerts committee asked for a neon sign." src= "/images/upb/sign.jpeg"/> <br/>
 A great idea: the concerts committee asked for a neon sign.
 </div>
 <br/>
 
 Assembling the culture of the committee was hard and defining its structure was another challenge. We were understaffed. We didn’t have enough people to fill the roles! In the past, the board /committee had five members, each of whom acted as a liaison between another committee (I used to be a concerts liaison!). This year, we only had four. Uh-oh. 
+
 Personally, I did not like the liaison format. While good for communication, this format didn’t use the time of the liaison effectively. After spending an hour listening to a committee discuss logistics, we still had to go to our own office hours and find time to work on our materials. How could we reduce the amount of time spent collecting information while increasing the quality of work? If we were a large organization, maybe promo could be our in-house design team. Or an ad agency?
 
 I scrapped the liaison positions and came up with several new roles that members could cycle between: flyer design, web content, social media, and unconventional promotion (this role would also cover swag orders). By introducing new roles, I hoped that everyone would be able to learn about different aspects of promotion and try new roles In addition, co-chairs could share their experiences and learn from each other.
 
 In replacement of the liaison system, I asked the committees to assign us a representative for each event they planned. I asked them to fill out basic information so that I could assemble a brief that we then discussed as a committee. Together, we were able to talk about what we expected from the event. Sometimes this feedback would alter the layout of an event, or otherwise impact its layout. These meetings were a good opportunity for me and my team to learn about giving feedback, working with a client, and generating ideas. 
+
+<div class = "post-image">
+<img alt ="Midway through a brainstorm." src= "/images/upb/brainstorm.jpg"/> <br/>
+Midway through a brainstorm.
+</div>
+<br/>
 
 With this new system, there was enough time during office hours for me to lead workshops on a variety of topics. These lessons gave me a chance to practice teaching design principles, as well as providing a way for co-chairs to learn about design. We would discuss designs we had seen and things we were working on. Once, after reading a book on retail design, I brought up the three types of consumers in a coffee shop: people who grab a coffee, people who get a coffee and drink it there, and people who dawdle all day. What if we took those same principles and applied them to our events? 
 
@@ -70,6 +77,7 @@ A slide from a mid-semester feedback session.</div>
 With this new committee structure, we were able to promote events and UPB as a whole in new, effective ways throughout the year. 
 
 Throughout the year, I
+
 * Increased “micro” data collection (short questions collected during events)
 
 * Created personas to better target different student groups
