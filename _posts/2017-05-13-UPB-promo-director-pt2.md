@@ -107,7 +107,7 @@ After a particularly draining study session, I realized that my friends and I go
 A groutfit is an all-gray outfit, usually consisting of a sweatshirt and sweatpants. It’s comfortable and cozy, and a gray is a school color. With this spin, we launched our most successful social media campaign yet, asking students to submit their grout fit pictures for gift cards to local coffee shops. 
 
 <div class = "post-image">
-<img alt ="We had many submissions to our groutfit contest." src= "/images/upb/groutfit.png"/> <br/>
+<img alt ="We had many submissions to our groutfit contest." src= "/images/upb/groutfit.PNG"/> <br/>
 </div>
 We had many submissions to our groutfit contest.
 <br/>
@@ -143,7 +143,7 @@ There’s a large swatch of plywood outside of our community center called the s
 Good thing I was learning about parallelization in my computer science classes. If we had several people working at a time, we could speed up the rate at which we could paint. Unsurprisingly, forward planning helped. Three people would roll out a background color, then one person would sketch the lettering based on a sketch. As soon as a letter was sketched, someone would follow up and paint the letters.   
 
 <div class = "post-image">
-<img alt ="We created this broc-heavy tableau for the D.R.A.M.concert." src= "/images/upb/dram.png"/> <br/>
+<img alt ="We created this broc-heavy tableau for the D.R.A.M.concert." src= "/images/upb/dram.PNG"/> <br/>
 We created this broc-heavy tableau for the D.R.A.M.concert.
 </div>
 <br/>
