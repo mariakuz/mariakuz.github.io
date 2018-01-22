@@ -156,9 +156,6 @@
     }
 
     .read-more { 
-        border: solid 0.2em $brand-color;
-        padding: 3px 9px 4px 9px;
-        border-radius: 1.125em;
         color: $third-accent-color;
         @include prefix(transition, border-color 0.4s linear, webkit moz ms o);
 
@@ -167,6 +164,11 @@
         }
     }
     /*footer icons extend read-more*/
+    /*back buttons extend read-more*/
+    .back-button { 
+        @extend .read-more;
+        padding-bottom: 0.5em;
+        }
 
 /* Site Footer
  * ============================================== */
