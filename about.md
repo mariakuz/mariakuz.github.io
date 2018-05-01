@@ -5,9 +5,9 @@ permalink: /about/
 ---
 Hello! 
 
-I'm Maria! I'm a product designer who enjoys bringing delightful experiences to life. I'm very interested in how things get made and coming up with new ideas. On the weekends, you can catch me exploring Cleveland on bike.
+I'm Maria! I'm a product designer who enjoys bringing delightful experiences to life. Functional and engaging experiences are very important to me - I love using a technology-led design process to meet and exceed human needs. On the weekends, you can catch me exploring Cleveland on bike.
 
-I'm a fourth year systems biology and computer science major at Case Western Reserve University. I'm graduating in May! I've had the chance to work with companies such as Google, Apple, and CoinDesk and I'm still looking for what I'm doing next. 
+I'm a fourth year systems biology and computer science major at Case Western Reserve University. I've created CWRU's first product design minor. I'm graduating in May! I've had the chance to work with companies such as Google, Apple, and CoinDesk and I'm still looking for what I'm doing next. 
 
 Let's stay in touch! Add me on <a href="https://www.linkedin.com/in/mariakuz/" target="_blank">LinkedIn</a>, or subscribe to <a href="http://eepurl.com/dgLmgH" target="_blank"> my newsletter </a>.
 
