@@ -4,8 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 ### What I've Been Up to!
-![My Resume](/images/maria_kuznetsov_resume_f17-01.png)
+Most recently, I've participated in the IDEO Spring 2018 Makeathon, started a relatively successful email newsletter, and developed CWRU's first product design minor. You can read more on my [LinkedIn](https://www.linkedin.com/in/mariakuz/).
 
-<small> Last updated: September 2016 </small>
-
-<a href="mailto:mariakuz@case.edu"> Drop me a link if you'd like to work on something together!</a>
+#### Resume -- the pdf
+ <a href="Kuznetsov_Maria_Resume.pdf" download> Check out my resume </a> - I've interned at Google and Apple. Maybe you'll work with me next?
