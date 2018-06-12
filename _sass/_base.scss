@@ -82,12 +82,12 @@
 /* Links
  * ============================================== */
     a {
-        color: darken($accent-color, 10%);
+        color: $second-accent-color;
         text-decoration: none;
         @include prefix(transition, color 0.4s linear, webkit moz ms o);
 
         &:hover {
-            color: darken($accent-color, 20%);
+            color: $accent-color;
             text-decoration: none;
         }
     }
