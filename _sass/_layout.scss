@@ -82,7 +82,7 @@
         }
 
         .page-link:hover {
-            color: $third-accent-color;
+            color: $accent-color;
         }
 
         @include media-query($on-palm) {
@@ -103,7 +103,7 @@
       top: 3px;
       left: -4px;
       z-index: -1;
-      color: $grey-color-dark;
+      color: $accent-color;
     }
 
 /* Individual Posts
@@ -122,6 +122,9 @@
         text-transform: uppercase;
         font-family: 'Open Sans'; 
     }
+    .post-title h1 {
+        padding-bottom: 15px;
+    }
 
 /* Archive
  * ============================================== */
@@ -139,7 +142,7 @@
     .post-link {
         font-size: 1.5em;
         display: block;
-        color: $third-accent-color;
+        color: $grey-color-dark;
         width: 100%;
 
         @include media-query($on-palm) {
@@ -161,7 +164,7 @@
         @include prefix(transition, border-color 0.4s linear, webkit moz ms o);
 
          &:hover {
-            border-color: $third-accent-color;
+            border-color: $accent-color;
         }
     }
     /*footer icons extend read-more*/
