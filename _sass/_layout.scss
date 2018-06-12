@@ -2,7 +2,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 175px;
+        min-height: 150px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -44,7 +44,8 @@
         padding-top: 15px;
         text-transform: none;
         font-family: 'Open Sans';
-        color: $second-accent-color;
+        color: $grey-color-dark;
+
 
         @include media-query($on-palm) {
             font-size:20px !important;
@@ -66,7 +67,7 @@
 
     .site-nav {
         float: left;
-        padding-top: 1em;
+        padding-top: 1.5em;
 
         .page-link {
             line-height: $base-line-height;
@@ -81,7 +82,7 @@
         }
 
         .page-link:hover {
-            color: $third-accent-color;
+            color: $accent-color;
         }
 
         @include media-query($on-palm) {
@@ -95,14 +96,14 @@
       z-index: 2;
     }
 
-    /* the offset text (darker color) */
+   /*  the offset text (darker color) */
     .stroke:after {
       position: absolute;
       content: "MARIA KUZNETSOV";
       top: 3px;
-      left: -4px;
+      left: -3px;
       z-index: -1;
-      color: $second-accent-color;
+      color: $accent-color;
     }
 
 /* Individual Posts
@@ -138,7 +139,7 @@
     .post-link {
         font-size: 1.5em;
         display: block;
-        color: $third-accent-color;
+        color: $grey-color-dark;
         width: 100%;
 
         @include media-query($on-palm) {
@@ -156,18 +157,18 @@
     }
 
     .read-more { 
-        color: $third-accent-color;
+        color: $second-accent-color;
         @include prefix(transition, border-color 0.4s linear, webkit moz ms o);
 
          &:hover {
-            border-color: $third-accent-color;
+            color: $accent-color;
         }
     }
     /*footer icons extend read-more*/
     /*back buttons extend read-more*/
     .back-button { 
         @extend .read-more;
-        padding-bottom: 0.5em;
+        padding: 15px 0;
         }
 
 /* Site Footer
@@ -196,6 +197,7 @@
     .post-title {
         font-size: 42px;
         line-height: 1;
+        padding: 15px 0;
 
         @include media-query($on-laptop) {
             font-size: 36px;

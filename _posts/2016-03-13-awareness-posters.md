@@ -1,5 +1,5 @@
 ---
-category: design
+category: graphic-design
 layout: post
 date: 2016-03-13
 title: Sexual Assault Awareness Posters
