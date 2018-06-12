@@ -17,7 +17,7 @@ $background-color: #FFF;
 $brand-color:      #F0D51D;
 $accent-color: #9E1364;
 $second-accent-color: #1798BF;
-$third-accent-color: #C12D17;
+$third-accent-color: darken($accent-color, 5%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 15%);

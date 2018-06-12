@@ -2,7 +2,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 175px;
+        min-height: 150px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -44,8 +44,8 @@
         padding-top: 15px;
         text-transform: none;
         font-family: 'Open Sans';
-       /*color: $second-accent-color;*/
-       color: white;
+        color: $grey-color-dark;
+
 
         @include media-query($on-palm) {
             font-size:20px !important;
@@ -67,7 +67,7 @@
 
     .site-nav {
         float: left;
-        padding-top: 1em;
+        padding-top: 1.5em;
 
         .page-link {
             line-height: $base-line-height;
@@ -101,7 +101,7 @@
       position: absolute;
       content: "MARIA KUZNETSOV";
       top: 3px;
-      left: -4px;
+      left: -3px;
       z-index: -1;
       color: $accent-color;
     }
@@ -121,9 +121,6 @@
         clear: both;
         text-transform: uppercase;
         font-family: 'Open Sans'; 
-    }
-    .post-title h1 {
-        padding-bottom: 15px;
     }
 
 /* Archive
@@ -160,18 +157,18 @@
     }
 
     .read-more { 
-        color: $third-accent-color;
+        color: $second-accent-color;
         @include prefix(transition, border-color 0.4s linear, webkit moz ms o);
 
          &:hover {
-            border-color: $accent-color;
+            color: $accent-color;
         }
     }
     /*footer icons extend read-more*/
     /*back buttons extend read-more*/
     .back-button { 
         @extend .read-more;
-        padding-bottom: 0.5em;
+        padding: 15px 0;
         }
 
 /* Site Footer
@@ -200,6 +197,7 @@
     .post-title {
         font-size: 42px;
         line-height: 1;
+        padding: 15px 0;
 
         @include media-query($on-laptop) {
             font-size: 36px;
