@@ -1,8 +1,4 @@
----
-layout: page
-title: Graphic Design
-permalink: /gdesign/
----
+
 During my college career, I practiced my graphic and visual design skills by working as a freelance graphic designer. I learned a lot about presenting my work, dealing with clients, and meeting vague specifications. I was lucky to work on a variety of projects!
 
 * Phi Kap Rush Shirts and Calendars
