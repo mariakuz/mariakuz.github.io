@@ -5,13 +5,13 @@ permalink: /media/
 ---
 I've had the opportunity to lead workshops and give talks over the last few years. I've learned a lot and being able to share that has been amazing!
 
-##### Workshops/Talks
+### Workshops/Talks
 
 * TechniCLE
   * At this tech summit, I facilitated discussion on how Cleveland can better support nontech startups.
 * Design for America
   * [Case Studies Workshop](https://mariakuz.github.io/dfa/2016/04/28/case-studies.html)
-    * I walked our studio through how to present and showcase their work. Read more >
+    * I walked our studio through how to present and showcase their work. 
   * Networking Talk
     * I gave insights on reaching out to people and forming connections, on and off campus.
 * University Program Board
@@ -26,7 +26,7 @@ I've had the opportunity to lead workshops and give talks over the last few year
   * Landing Your First Internship Panel
     * Answered questions and shared advice about finding internships
 
-##### Articles I’ve Written
+### Articles I’ve Written
 
 * [Using Jekyll as a Content Management System, 2015](https://www.spantree.net/blog/2015/08/14/jekyll-as-CMS.html)
   * Written for Spantree about their website structure.
@@ -39,7 +39,7 @@ I've had the opportunity to lead workshops and give talks over the last few year
 * [The FinkedIn Dispatch, ongoing](http://eepurl.com/dgLmgH)
   * I run a weekly newsletter roundup of links relating to design, technology, innovation, personal development... it's about the internet.
 
-##### Research
+### Research
 * IMSAloquium 2013
   * Presented "Mediators of FFAR2 Expression Changes During Pregnancy"
 * Japanese Super Science Fair 2013
@@ -48,7 +48,7 @@ I've had the opportunity to lead workshops and give talks over the last few year
 * ShowCASE 2018
   * Presented my group senior project: [Dynamo](https://docs.google.com/presentation/d/1BVwpZ8Fx288TComs6Dl0o5hF0BTTlYIyNbdNqwrEyd0/edit?usp=sharing), a dynamic tutorial solver
 
-##### Conferences I've Attended
+### Conferences I've Attended
 * Thinkapalooza 2016, 2017
   * Winner of the 2016 Civic Tech Hackathon
 * Grace Hopper Conference 2015, 2016, 2017
