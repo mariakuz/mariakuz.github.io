@@ -1,5 +1,5 @@
 ---
-category: design
+category: graphic-design
 layout: post
 date: 2016-12-08
 published: false

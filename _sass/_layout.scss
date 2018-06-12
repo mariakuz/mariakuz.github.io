@@ -44,7 +44,8 @@
         padding-top: 15px;
         text-transform: none;
         font-family: 'Open Sans';
-        color: $second-accent-color;
+       /*color: $second-accent-color;*/
+       color: white;
 
         @include media-query($on-palm) {
             font-size:20px !important;
@@ -95,14 +96,14 @@
       z-index: 2;
     }
 
-    /* the offset text (darker color) */
+   /*  the offset text (darker color) */
     .stroke:after {
       position: absolute;
       content: "MARIA KUZNETSOV";
       top: 3px;
       left: -4px;
       z-index: -1;
-      color: $second-accent-color;
+      color: $grey-color-dark;
     }
 
 /* Individual Posts
