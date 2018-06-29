@@ -12,10 +12,10 @@ During my college career, I practiced my graphic and visual design skills by wor
 
 I was able to incorporate and share many of my learnings when I became the director of promotions for the undergraduate progam board. In addition, I acted as public relations/promotions chair for multiple student organizations and was often called in to help organizations create visual identities.
 
-* Thwing Tuesday
-* Trashed Out Cashed Out
+* [Thwing Tuesday](https://mariakuz.github.io/gdesign/2016/03/12/thwing-tuesdays-logo.html)
+* Trashed Out Cashed Out Tour (Fall Concert 2016)
 * [University Pizza Board](https://mariakuz.github.io/gdesign/2016/04/01/university-pizza-board.html)
-* [Bathroom Posters]()
+* [Bathroom Posters](https://mariakuz.github.io/gdesign/2016/03/13/awareness-posters.html)
 * [DFA Design Day](https://mariakuz.github.io/gdesign/2016/04/21/dfa-design-day.html)
 * Fall/Spring Giveaways
 * [CWRU Letters](https://mariakuz.github.io/gdesign/2016/08/20/CWRUchella-letters.html)
