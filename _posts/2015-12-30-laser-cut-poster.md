@@ -1,5 +1,5 @@
 ---
-category: design
+category: gesign
 layout: post
 published: true
 date: 2015-12-30
