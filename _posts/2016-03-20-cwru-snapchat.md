@@ -1,5 +1,5 @@
 ---
-category: design
+category: gdesign
 layout: post
 date: 2016-03-21
 title: CWRU Geofilters

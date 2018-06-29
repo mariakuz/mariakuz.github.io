@@ -1,5 +1,5 @@
 ---
-category: design
+category: gdesign
 layout: post
 published: true
 date: 2016-04-01
