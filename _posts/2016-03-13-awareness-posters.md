@@ -1,5 +1,5 @@
 ---
-category: graphic-design
+category: gdesign
 layout: post
 date: 2016-03-13
 title: Sexual Assault Awareness Posters
