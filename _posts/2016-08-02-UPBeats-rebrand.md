@@ -3,9 +3,9 @@ category: design
 layout: post
 date: 2016-08-02
 published: true
-title: Spot Night Rebrand
+title: UPBeats Design System
 thumbnail: /images/upbeats/sign.JPG
-summary: Creating the UPBeats imagery and brand.
+summary: Creating the UPBeats brand and design system.
 ---
 Spot Night was UPB's weekly concert night series. After deliberation, it was converted into a monthly series featuring larger artists.
 
