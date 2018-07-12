@@ -112,11 +112,20 @@ learning more about the Expert, asking questions before set up, preparing for th
 <img alt ="Next steps - Exploring other opportunities to maintain relationships with Enjoy Experts.
 Integrating feedback from Experts, customers, and stakeholders." src= "/images/Enjoy_Redesign_Maria_Kuznetsov/Slide26.jpg"/> <br/>
 </div>
+### Process
+* Interviewed Clark to understand employee perspective
+* Research on checkout process and company
+* Grouped scenarios and visualized workflow
+* Looked at points of failure and picked one to address
+* Generated potential solutions
+* Selection of an idea and prototyping
+* Analyzed, tested, and reflected on solution
+
 ### Thoughts
 
 With two weeks to conduct research and execute, I found it difficult to find a sample size large enough. Since much of the Enjoy process is contained within the Enjoy employee app, I would love to shadow an Enjoy employee to get a better look behind the scenes and learn from an actual purchase.
 
-I would also love to test this idea and get feedback from Experts.
+I would also love to test this idea and get feedback from Experts. I was able to get Clark's feedback - reduce the amount of text - but he's only one person.
 
 I chose to go with an email due to its ease of implementation into the current workflow and low level of effort required from the customer. Based on the diagram I had made, it was one of the solutions that did the most to correct the information imbalance in the process.
 
