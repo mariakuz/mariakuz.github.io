@@ -2,7 +2,7 @@
 category: design
 layout: post
 date: 2018-07-01
-published: true
+published: false
 title: RMG Website Redesign
 thumbnail: /images/rmg/RMG_hi_fi_wireframe_styles.JPG
 summary: Website redesign for a marketing agency.
