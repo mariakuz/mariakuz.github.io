@@ -3,9 +3,9 @@ category: home_page
 layout: post
 published: true
 date: 2018-01-15
-title: The new product design minor
+title: Minoring in product design
 thumbnail: /images/cwruchella/281.jpg
-summary: Paving my own path at CWRU.
+summary: Paving my own path by creating CWRU's first product design minor.
 ---
 As of 2018, CWRU has granted four custom minors in the last decade, with the latest addition being Product Design. Combining classes in systems theory, information design, marketing, and biodesign, the minor filled a unique gap at an engineering school. And it's something I made up because I was curious.
 
