@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FinkedIn Dispatch
+title: The FinkedIn
 permalink: /finkedin/
 ---
-The FinkedIn Dispatch is my weekly newsletter on design, tech, and innovation - it's about the internet.
+The FinkedIn is my weekly newsletter on design, tech, and the future, curated by the worst algorithm (me). Temporarily on hiatus.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -16,7 +16,7 @@ The FinkedIn Dispatch is my weekly newsletter on design, tech, and innovation - 
 <form action="https://github.us17.list-manage.com/subscribe/post?u=abb754480e8990f385eafa0fd&amp;id=5b3e18f3b8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Let's Connect</h2>
-	<p> Hi, I'd like to add you to my semi-professional network on FinkedIn. Sign up for links in tech, design, and all over to get sent to your inbox every Monday at 8:45 EST. </p>
+	<p> Hi, I'd like to add you to my semi-professional network on FinkedIn. Sign up for links in tech, design, and all over. </p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

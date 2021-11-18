@@ -3,10 +3,13 @@ layout: page
 title: Media
 permalink: /media/
 ---
-I've had the opportunity to lead workshops and give talks over the last few years. I've learned a lot and being able to share that has been amazing!
+I've had the opportunity to lead workshops and give talks over the last few years. Recently, I've been speaking to bootcamp and college students about working as a UI engineer. I've learned a lot and being able to share that has been amazing!
 
 ### Workshops/Talks
-
+* Gender Generator: creating a novel UI with generative art
+  * Sharing the context and motivations behind Gender Generator and how UI can better serve the needs of the gender-diverse people that use it.
+* Exploring other centers: beyond human-centered design
+  * Discussing design methodologies and theories outside of HCD
 * TechniCLE
   * At this tech summit, I facilitated discussion on how Cleveland can better support nontech startups.
 * Design for America
@@ -20,7 +23,7 @@ I've had the opportunity to lead workshops and give talks over the last few year
   * [Branding Workshop](https://docs.google.com/presentation/d/1Q5fIRHt5PKQGCL-DZKGBWTL5SdhojdX-dAO4W3sMjvE/edit?usp=sharing)
     * I led the promotions committee in discovering and defining the UPB brand.
 * HackCWRU + Association for Computing Machinery
-  * [Intro to Front End](https://docs.google.com/presentation/d/17S0aEjGgNyY7cnEqxluXWZH8ChllU6nujBHmY82n86I/edit?usp=sharing) @ HackCWRU 2017 + 2018
+  * [Intro to Front End](https://docs.google.com/presentation/d/17S0aEjGgNyY7cnEqxluXWZH8ChllU6nujBHmY82n86I/edit?usp=sharing) @ HackCWRU 2017 - 2020
   * MLH Demo Day 2017
     * Spoke on personal projects for social good and learning through volunteering
   * Landing Your First Internship Panel
@@ -36,8 +39,8 @@ I've had the opportunity to lead workshops and give talks over the last few year
   * A summary of research on membrane protein purification protocols.
 * [Food, Stewardship, and Reverence in a Restaurant Setting, 2017](https://drive.google.com/file/d/1OWuW6wQS7wHZq8RwIxG-OyIVmGJQLjUr/view?usp=sharing)
   * The cumulation of my independent study on systems design in food.
-* [The FinkedIn Dispatch, ongoing](http://eepurl.com/dgLmgH)
-  * I run a weekly newsletter roundup of links relating to design, technology, innovation, personal development... it's about the internet.
+* [The FinkedIn, ongoing](http://eepurl.com/dgLmgH)
+  * I run a weekly newsletter roundup of links relating to design, technology, the future... it's about asking "what's next?".
 
 ### Research
 * IMSAloquium 2013
@@ -48,10 +51,10 @@ I've had the opportunity to lead workshops and give talks over the last few year
 * ShowCASE 2018
   * Presented my group senior project: [Dynamo](https://docs.google.com/presentation/d/1BVwpZ8Fx288TComs6Dl0o5hF0BTTlYIyNbdNqwrEyd0/edit?usp=sharing), a dynamic tutorial solver
 
-### Conferences I've Attended
+<!-- ### Conferences I've Attended
 * Thinkapalooza 2016, 2017
   * Winner of the 2016 Civic Tech Hackathon
 * Grace Hopper Conference 2015, 2016, 2017
 * National Association for Campus Activities 2016
 * Google Women in Tech summit 2017
-* O4U Marketing Conference 2016
+* O4U Marketing Conference 2016 -->
