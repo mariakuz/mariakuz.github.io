@@ -1,5 +1,5 @@
 ---
-category: design
+category: home_page
 layout: post
 date: 2018-01-08
 published: true

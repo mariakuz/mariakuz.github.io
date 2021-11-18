@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello! 
-
-I’m M. I’m a creative technologist who enjoys futuring, thinking in systems, and exploring personal connections. Whatever the medium, I enjoy finding and solving problems that people face and getting involved at all stages of the product design process, from research to implementation. However, I particularly love doing deep dives on literature to collect insights and synthesize solutions and summaries.
+Hello! I’m M (Maria) Kuznetsov. I’m a creative technologist who enjoys futuring, thinking in systems, and exploring personal connections. Whatever the medium, I enjoy finding and solving problems that people face and getting involved at all stages of the product design process, from research to implementation. However, I particularly love doing deep dives on literature to collect insights and synthesize solutions and summaries.
 
 #### Questions that I’m thinking about:
 - How can we design technologies for an equitable and sustainable future?
@@ -27,4 +25,4 @@ Most recently, I finished the Experiential Futures course at Carnegie Mellon and
 I’ve been coding at Target and designing for LGBTQ bike communities. My newsletter, the Finkedin, continues into its third year of exploring emerging technologies and the future. Outside of design/tech, I enjoy baking for a local community kitchen and riding bikes with the local bike community. 
 
 #### Let's connect
- Learn more about my experience on my <a href="https://www.linkedin.com/in/mariakuz/" target="_blank">LinkedIn</a>, or subscribe to <a href="http://eepurl.com/dgLmgH" target="_blank"> the FinkedIn Dispatch</a>, my internet-focused, weekly newsletter.
+ Learn more about my experience on my <a href="https://www.linkedin.com/in/mariakuz/" target="_blank">LinkedIn</a>, or subscribe to <a href="http://eepurl.com/dgLmgH" target="_blank"> the FinkedIn</a>, my internet-focused, weekly newsletter.

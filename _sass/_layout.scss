@@ -4,25 +4,21 @@
     .site-header {
         min-height: 150px;
         background-color: $brand-color;
-        background-image: url('');
-        background-size: cover;
-        background-position: center -170px;
-        background-attachment: fixed;
+        width: 100%;
 
         @include media-query($on-palm) {
-            min-height: 150px;
-            background-position: center -250px;
-            width: 100%;
         }
     }
 
-    .site-header a, a h1:hover {color: #FFF};
+    .site-header a {color: $grey-color-dark};
+    a h1:hover {color: #FFF};
 
     .site-header h1 {
+        background-color: #FFF;
         display: block;
         font-size: 60px !important;
         line-height: 1;
-        padding-top: 0px;
+        padding: 5px;
         letter-spacing: 3px;
         text-align: left;
         clear: both;
@@ -90,27 +86,11 @@
         }
     }
 
-    /* prepare the selectors to add a stroke to */
-    .stroke {
-      position: relative;
-      z-index: 2;
-    }
-
-   /*  the offset text (darker color) */
-    .stroke:after {
-      position: absolute;
-      content: "MARIA KUZNETSOV";
-      top: 3px;
-      left: -3px;
-      z-index: -1;
-      color: $accent-color;
-    }
-
 /* Individual Posts
  * ============================================== */
     .page-content {
-        padding: $spacing-unit 0;
-        text-align: left-align;
+        padding-bottom: $spacing-unit;
+        text-align: left;
     }
 
     .page-heading {
@@ -122,16 +102,31 @@
         text-transform: uppercase;
         font-family: 'Open Sans'; 
     }
+    .page-heading-home {
+        text-transform: uppercase;
+        padding: 0.5em;
+    }
+
 
 /* Archive
  * ============================================== */
     .post-list {
-        margin-left: 0;
+        margin: 0 auto;
         list-style: none;
+        display: flex;
+        flex-flow: row wrap;
+        width: 100%;
+        align-items: flex-start;
 
         > li {
-            display: block;
             padding: 0.1em 0 1.5em 0;
+            margin: 0 1em;
+            max-width: 300px;
+             img {
+                width: 300px;
+                height: 300px;
+                object-fit: cover;
+            }
         }
 
     }
@@ -195,13 +190,11 @@
 /* Post Format
  * ============================================== */
     .post-title {
-        font-size: 42px;
-        line-height: 1;
-        padding: 15px 0;
-
-        @include media-query($on-laptop) {
-            font-size: 36px;
-        }
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+    .post {
+        max-width: 680px;
     }
 /*
     .post-header {

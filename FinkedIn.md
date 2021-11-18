@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FinkedIn Dispatch
+title: The FinkedIn
 permalink: /finkedin/
 ---
-The FinkedIn Dispatch is my weekly newsletter on design, tech, and the future, curated by the worst algorithm (me). Temporarily on hiatus.
+The FinkedIn is my weekly newsletter on design, tech, and the future, curated by the worst algorithm (me). Temporarily on hiatus.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
