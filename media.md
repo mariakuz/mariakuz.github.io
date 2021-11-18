@@ -6,7 +6,10 @@ permalink: /media/
 I've had the opportunity to lead workshops and give talks over the last few years. I've learned a lot and being able to share that has been amazing!
 
 ### Workshops/Talks
-
+* Gender Generator: creating a novel UI with generative art
+  * Sharing the context and motivations behind Gender Generator and how UI can better serve the needs of the gender-diverse people that use it.
+* Exploring other centers: beyond human-centered design
+  * Discussing design methodologies and theories outside of HCD
 * TechniCLE
   * At this tech summit, I facilitated discussion on how Cleveland can better support nontech startups.
 * Design for America
@@ -37,7 +40,7 @@ I've had the opportunity to lead workshops and give talks over the last few year
 * [Food, Stewardship, and Reverence in a Restaurant Setting, 2017](https://drive.google.com/file/d/1OWuW6wQS7wHZq8RwIxG-OyIVmGJQLjUr/view?usp=sharing)
   * The cumulation of my independent study on systems design in food.
 * [The FinkedIn Dispatch, ongoing](http://eepurl.com/dgLmgH)
-  * I run a weekly newsletter roundup of links relating to design, technology, innovation, personal development... it's about the internet.
+  * I run a weekly newsletter roundup of links relating to design, technology, the future... it's about asking "what's next?".
 
 ### Research
 * IMSAloquium 2013
